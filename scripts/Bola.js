@@ -18,7 +18,8 @@ class Bola{
         this.bolaImagem.addEventListener('load', () => {
             this.draw()
         });
- 
+// this.c.drawImage(this.bolaImagem, this.x, this.y, this.bolaImagem.width, this.bolaImagem.height);
+
 
     }
 
